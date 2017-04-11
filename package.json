@@ -1,0 +1,11 @@
+{
+  "name": "electube",
+  "version": "0.0.1",
+  "description": "Electron App for Youtube TV",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Geno Timlin",
+  "license": "ISC"
+}
